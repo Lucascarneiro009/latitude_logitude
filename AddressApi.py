@@ -5,7 +5,7 @@ import json
 
 # Criando classe para consultar o CEP
 
-class CEPapi:
+class AddressApi:
 
     def __init__(self):
 
@@ -34,7 +34,7 @@ class CEPapi:
 
 if __name__ == '__main__':
 
-    CEPapi = CEPapi()
-    cep = CEPapi.consultar(cep = 60010030)
+    AddressApi = AddressApi()
+    endereco = AddressApi.consultar(cep = 60010030)
 
-    print(cep)
+    print(endereco)
