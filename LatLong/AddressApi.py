@@ -35,6 +35,6 @@ class AddressApi:
 if __name__ == '__main__':
 
     AddressApi = AddressApi()
-    endereco = AddressApi.consultar(cep = 60010030)
+    endereco = AddressApi.consultar(cep = 60175055)
 
     print(endereco)
