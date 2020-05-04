@@ -1,5 +1,2 @@
 import requests
 
-
-
-re
