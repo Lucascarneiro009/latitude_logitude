@@ -4,6 +4,11 @@ Esse projeto tem como principal objetivo facilitar a conversão entre CEP e lati
 
 OBS: Em desenvolvimento... porém, ja com uma primeira versão funcional!
 
+#### API's utilizadas
+
+- ViaCep: Conseguir o endereço completo a partir do CEP;
+- Nominatim (openstreetmap): Conseguir latitude e longitude a partir do endereço completo.
+
 #### Bibliotecas necessários
 
 - Requests
