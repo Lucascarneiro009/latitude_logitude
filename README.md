@@ -29,3 +29,6 @@ print('A latitude é {0} e a longitude é {1}!'.format(lat, lon))
 ```
 A latitude é -3.7259426 e a longitude é -38.5203422!
 
+# Anotações
+
+Primeiro Commit com codespace!
